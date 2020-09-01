@@ -1,3 +1,3 @@
 ** today is awesome.
-** this is my master branch.
+** this is my new master branch.
 
